@@ -1,0 +1,11 @@
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\bin\Debug\Performnce Evaluvator.exe.config
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\bin\Debug\Performnce Evaluvator.exe
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\bin\Debug\Performnce Evaluvator.pdb
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce Evaluvator.csproj.AssemblyReference.cache
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce_Evaluvator.Form1.resources
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce_Evaluvator.Properties.Resources.resources
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce Evaluvator.csproj.GenerateResource.cache
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce Evaluvator.csproj.CoreCompileInputs.cache
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce Evaluvator.exe
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce Evaluvator.pdb
+E:\Program\Performnce Evaluvator\Performnce Evaluvator\obj\Debug\Performnce Evaluvator.exe.config
