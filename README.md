@@ -22,12 +22,10 @@
 ## Screenshots
 
 ### Main Interface
-<img src="./screenshots/main_interface.png" alt="Main Interface Screenshot" width="600">
+<img src="<img width="979" height="573" alt="image" src="https://github.com/user-attachments/assets/b623647f-7c85-4982-88aa-2597ccd87551" />
+" width="600">
 
-### Performance Bars & Grades
-<img src="./screenshots/performance_bars.png" alt="Performance Bars Screenshot" width="600">
 
-*Replace these placeholders with actual screenshots of your application.*
 
 ---
 
