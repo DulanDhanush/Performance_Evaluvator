@@ -22,8 +22,8 @@
 ## Screenshots
 
 ### Main Interface
-<img src="<img width="979" height="573" alt="image" src="https://github.com/user-attachments/assets/b623647f-7c85-4982-88aa-2597ccd87551" />
-" width="600">
+<img width="979" height="573" alt="image" src="https://github.com/user-attachments/assets/b623647f-7c85-4982-88aa-2597ccd87551" />
+
 
 
 
